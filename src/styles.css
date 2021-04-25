@@ -1,0 +1,14 @@
+body {
+  font-family: sans-serif;
+}
+#elements {
+  margin-bottom: 10px;
+}
+#elements > span {
+  padding: 4px;
+  margin: 4px;
+}
+
+.selected {
+  border: solid 1px red;
+}
