@@ -1,0 +1,2 @@
+# vanillaJSIteratorPattern
+Created with CodeSandbox
